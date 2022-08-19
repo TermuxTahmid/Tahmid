@@ -25,7 +25,7 @@ print """
 \033[1;97m           [⚡\033[1;97mAuthor Name: Tahmid Xhowdhury⚡\033[1;97m]
 \033[1;97m           [⚡\033[1;97mPhone Numbr: +44 7520674933  ⚡\033[1;97m]
 \033[1;97m           [⚡\033[1;97mYutube Chnl: Areyan Shubo    ⚡\033[1;97m]
-\033[1;97m           [⚡       \033[1;97mFrom: Bangladesh  Uk	⚡\033[1;97m]
+\033[1;97m           [⚡       \033[1;97mFrom: Bangladesht.    ⚡\033[1;97m]
 
 \033[1;47m\033[1;35m          Enter Facebook Account User Name                 \033[1;0m
 """    
